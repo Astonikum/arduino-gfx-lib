@@ -1,0 +1,26 @@
+{
+  "name": "MadArduinoGFX",
+  "version": "0.2.0",
+  "description": "Buffered TFT and RGB OLED adapters using Arduino_GFX",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "dependencies": {
+    "MadDisplay": "https://github.com/Astonikum/display-lib.git#v0.7.0",
+    "moononournation/GFX Library for Arduino": "^1.6.9",
+    "MadDisplayAdapters": "https://github.com/Astonikum/adapter-common-lib.git#v0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Astonikum/arduino-gfx-lib.git"
+  },
+  "homepage": "https://github.com/Astonikum/arduino-gfx-lib",
+  "authors": [
+    {
+      "name": "Astonikum",
+      "url": "https://github.com/Astonikum"
+    }
+  ],
+  "build": {
+    "includeDir": "src"
+  }
+}
