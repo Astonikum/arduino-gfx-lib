@@ -45,7 +45,7 @@ PlatformIO (`platformio.ini`):
 
 ```ini
 lib_deps =
-  https://github.com/Astonikum/arduino-gfx-lib.git#v0.2.0
+  https://github.com/Astonikum/arduino-gfx-lib.git#v0.2.1
 ```
 
 PlatformIO resolves the core, adapter support and vendor dependencies automatically.

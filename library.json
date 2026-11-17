@@ -1,6 +1,6 @@
 {
   "name": "MadArduinoGFX",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Buffered TFT and RGB OLED adapters using Arduino_GFX",
   "frameworks": "arduino",
   "platforms": "*",
